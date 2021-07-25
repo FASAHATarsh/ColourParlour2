@@ -1,0 +1,13 @@
+  [
+    {
+        "author": "Fasahat Ahmed",
+        "caption": "First Post",
+        "drawing": "../assets/post1.jfif"
+    },
+    {
+        "author": "IronArsh",
+        "caption": "Mine is better",
+        "drawing": "../assets/post2.jfif"
+
+    }
+]
