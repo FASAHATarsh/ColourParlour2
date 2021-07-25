@@ -1,3 +1,3 @@
-# Dailybugle 1.1
+# Colour Parlour v2.1
 ##### By Fasahat
-If you want to see it online click on this [Link](https://snack.expo.dev/@ironarshxs/dailybugle1).
+If you want to see it online click on this [Link](https://snack.expo.dev/@ironarshxs/colour-parlour-1).
